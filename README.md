@@ -1,6 +1,3 @@
-Got it, let's adjust the README file accordingly:
-
----
 
 # Event Hall Booking Website
 
