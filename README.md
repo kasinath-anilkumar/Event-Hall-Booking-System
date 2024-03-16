@@ -18,7 +18,7 @@ To run our Event Hall Booking Website locally, you'll need the following prerequ
 
 1. **Visual Studio 2010:** Install Visual Studio 2010 IDE on your system.
 2. **C# Programming Language:** Our website backend is developed using C#.
-3. **MySQL Database:** Install MySQL on your system. You can download MySQL from [MySQL official website](https://www.mysql.com/downloads/).
+3. **SQL server 2008 Database:** 
 4. **Clone Repository:** Clone the repository of our website from [GitHub repository URL].
 
 Once you have set up the prerequisites, import the provided MySQL database dump to create the necessary database schema and populate it with sample data.
